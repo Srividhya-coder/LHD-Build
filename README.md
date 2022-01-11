@@ -1,2 +1,2 @@
 # LHD-Build
-Reverse a strinh
+Reverse a string
