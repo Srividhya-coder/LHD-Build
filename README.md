@@ -1,2 +1,2 @@
 # LHD-Build
-Reverse a string
+Reverse a string program written in python
